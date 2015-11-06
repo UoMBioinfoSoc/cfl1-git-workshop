@@ -1,5 +1,5 @@
-# cfl1-git-workshop
+# Code for Life - Git, GitHub, & Git LFS
 
-Louis's slides for the first Code for Life workshop: Git, GitHub, and Git LFS, November 6th 2015
+Louis's slides for the first _Code for Life_ workshop are now [available as a PDF from our website](http://uombio.info/docs/cfl1-git-workshop.pdf)
 
 ![](https://github.com/UoMBioinfoSoc/UoMBioinfoSoc.github.io/raw/master/assets/images/storage/CFL1_git.png)
